@@ -21,6 +21,6 @@ faiss-cpu>=1.7.4
 # Optional API Layer
 fastapi>=0.110.0
 uvicorn>=0.29.0
-
+streamlit
 # Notebook Support (optional)
 ipykernel>=6.0.0
